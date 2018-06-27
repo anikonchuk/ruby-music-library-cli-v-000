@@ -19,4 +19,7 @@ class MusicLibraryController
       self.call unless input == "exit"
   end
   
+  def list_songs
+    
+  
 end
